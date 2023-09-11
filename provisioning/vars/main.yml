@@ -32,7 +32,6 @@ dev:
     - apt-transport-https
     - ca-certificates
     - gnupg
-    - age
 
   remove_packages:
     - python3-argcomplete
